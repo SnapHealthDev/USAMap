@@ -1,0 +1,329 @@
+{
+  "AL": {
+    "abbr": "AL",
+    "status": "inactive",
+    "state": "Alabama",
+    "capital": "Montgomery"
+  },
+  "AK": {
+    "abbr": "AK",
+    "status": "active",
+    "carriers": "2",
+    "state": "Alaska",
+    "capital": "Juneau",
+    "url": "https://shops.mysnaphealth.com/products/alaska-early-access-oep"
+  },
+  "AZ": {
+    "abbr": "AZ",
+    "status": "active",
+    "carriers": "8",
+    "state": "Arizona",
+    "capital": "Phoenix"
+  },
+  "AR": {
+    "abbr": "AR",
+    "status": "active",
+    "carriers": "4",
+    "state": "Arkansas",
+    "capital": "Little Rock"
+  },
+  "CA": {
+    "abbr": "CA",
+    "status": "inactive",
+    "state": "California",
+    "capital": "Sacramento"
+  },
+  "CO": {
+    "abbr": "CO",
+    "status": "active",
+    "carriers": "6",
+    "state": "Colorado",
+    "capital": "Denver"
+  },
+  "CT": {
+    "abbr": "CT",
+    "status": "inactive",
+    "state": "Connecticut",
+    "capital": "Hartford"
+  },
+  "DE": {
+    "abbr": "DE",
+    "status": "inactive",
+    "state": "Delaware",
+    "capital": "Dover"
+  },
+  "FL": {
+    "abbr": "FL",
+    "status": "inactive",
+    "state": "Florida",
+    "capital": "Tallahassee"
+  },
+  "GA": {
+    "abbr": "GA",
+    "status": "active",
+    "carriers": "10",
+    "state": "Georgia",
+    "capital": "Atlanta"
+  },
+  "HI": {
+    "abbr": "HI",
+    "status": "inactive",
+    "state": "Hawaii",
+    "capital": "Honolulu"
+  },
+  "ID": {
+    "abbr": "ID",
+    "status": "active",
+    "carriers": "8",
+    "state": "Idaho",
+    "capital": "Boise"
+  },
+  "IL": {
+    "abbr": "IL",
+    "status": "inactive",
+    "state": "Illinois",
+    "capital": "Springfield"
+  },
+  "IN": {
+    "abbr": "IN",
+    "status": "active",
+    "carriers": "5",
+    "state": "Indiana",
+    "capital": "Indianapolis"
+  },
+  "IA": {
+    "abbr": "IA",
+    "status": "active",
+    "carriers": "4",
+    "state": "Iowa",
+    "capital": "Des Moines",
+    "url": "https://shops.mysnaphealth.com/products/iowa-early-access-oep"
+  },
+  "KS": {
+    "abbr": "KS",
+    "status": "active",
+    "carriers": "8",
+    "state": "Kansas",
+    "capital": "Topeka"
+  },
+  "KY": {
+    "abbr": "KY",
+    "status": "active",
+    "carriers": "4",
+    "state": "Kentucky",
+    "capital": "Frankfort"
+  },
+  "LA": {
+    "abbr": "LA",
+    "status": "inactive",
+    "state": "Louisiana",
+    "capital": "Baton Rouge"
+  },
+  "ME": {
+    "abbr": "ME",
+    "status": "active",
+    "carriers": "4",
+    "state": "Maine",
+    "capital": "Augusta"
+  },
+  "MD": {
+    "abbr": "MD",
+    "status": "active",
+    "carriers": "3",
+    "state": "Maryland",
+    "capital": "Annapolis"
+  },
+  "MA": {
+    "abbr": "MA",
+    "status": "inactive",
+    "state": "Massachusetts",
+    "capital": "Boston"
+  },
+  "MI": {
+    "abbr": "MI",
+    "status": "active",
+    "carriers": "9",
+    "state": "Michigan",
+    "capital": "Lansing"
+  },
+  "MN": {
+    "abbr": "MN",
+    "status": "active",
+    "carriers": "5",
+    "state": "Minnesota",
+    "capital": "Saint Paul"
+  },
+  "MS": {
+    "abbr": "MS",
+    "status": "inactive",
+    "state": "Mississippi",
+    "capital": "Jackson"
+  },
+  "MO": {
+    "abbr": "MO",
+    "status": "inactive",
+    "state": "Missouri",
+    "capital": "Jefferson City"
+  },
+  "MT": {
+    "abbr": "MT",
+    "status": "active",
+    "carriers": "3",
+    "state": "Montana",
+    "capital": "Helena"
+  },
+  "NE": {
+    "abbr": "NE",
+    "status": "inactive",
+    "state": "Nebraska",
+    "capital": "Lincoln"
+  },
+  "NV": {
+    "abbr": "NV",
+    "status": "active",
+    "carriers": "7",
+    "state": "Nevada",
+    "capital": "Carson City"
+  },
+  "NH": {
+    "abbr": "NH",
+    "status": "active",
+    "carriers": "3",
+    "state": "New Hampshire",
+    "capital": "Concord"
+  },
+  "NJ": {
+    "abbr": "NJ",
+    "status": "inactive",
+    "state": "New Jersey",
+    "capital": "Trenton"
+  },
+  "NM": {
+    "abbr": "NM",
+    "status": "inactive",
+    "state": "New Mexico",
+    "capital": "Santa Fe"
+  },
+  "NY": {
+    "abbr": "NY",
+    "status": "inactive",
+    "state": "New York",
+    "capital": "Albany"
+  },
+  "NC": {
+    "abbr": "NC",
+    "status": "inactive",
+    "state": "North Carolina",
+    "capital": "Raleigh"
+  },
+  "ND": {
+    "abbr": "ND",
+    "status": "inactive",
+    "state": "North Dakota",
+    "capital": "Bismarck"
+  },
+  "OH": {
+    "abbr": "OH",
+    "status": "inactive",
+    "state": "Ohio",
+    "capital": "Columbus"
+  },
+  "OK": {
+    "abbr": "OK",
+    "status": "inactive",
+    "state": "Oklahoma",
+    "capital": "Oklahoma City"
+  },
+  "OR": {
+    "abbr": "OR",
+    "status": "active",
+    "carriers": "6",
+    "state": "Oregon",
+    "capital": "Salem",
+    "url": "https://shops.mysnaphealth.com/products/oregon-early-access-oep"
+  },
+  "PA": {
+    "abbr": "PA",
+    "status": "active",
+    "carriers": "8",
+    "state": "Pennsylvania",
+    "capital": "Harrisburg",
+    "url": "https://shops.mysnaphealth.com/products/pennsylvania-early-access-oep"
+  },
+  "RI": {
+    "abbr": "RI",
+    "status": "inactive",
+    "state": "Rhode Island",
+    "capital": "Providence"
+  },
+  "SC": {
+    "abbr": "SC",
+    "status": "active",
+    "carriers": "5",
+    "state": "South Carolina",
+    "capital": "Columbia"
+  },
+  "SD": {
+    "abbr": "SD",
+    "status": "inactive",
+    "state": "South Dakota",
+    "capital": "Pierre"
+  },
+  "TN": {
+    "abbr": "TN",
+    "status": "active",
+    "carriers": "6",
+    "state": "Tennessee",
+    "capital": "Nashville"
+  },
+  "TX": {
+    "abbr": "TX",
+    "status": "inactive",
+    "state": "Texas",
+    "capital": "Austin"
+  },
+  "UT": {
+    "abbr": "UT",
+    "status": "inactive",
+    "state": "Utah",
+    "capital": "Salt Lake City"
+  },
+  "VT": {
+    "abbr": "VT",
+    "status": "active",
+    "carriers": "2",
+    "state": "Vermont",
+    "capital": "Montpelier"
+  },
+  "VA": {
+    "abbr": "VA",
+    "status": "active",
+    "carriers": "10",
+    "state": "Virginia",
+    "capital": "Richmond"
+  },
+  "WA": {
+    "abbr": "WA",
+    "status": "inactive",
+    "state": "Washington",
+    "capital": "Olympia"
+  },
+  "WV": {
+    "abbr": "WV",
+    "status": "inactive",
+    "state": "West Virginia",
+    "capital": "Charleston"
+  },
+  "WI": {
+    "abbr": "WI",
+    "status": "inactive",
+    "state": "Wisconsin",
+    "capital": "Madison"
+  },
+  "WY": {
+    "abbr": "WY",
+    "status": "inactive",
+    "state": "Wyoming",
+    "capital": "Cheyenne"
+  }
+}
