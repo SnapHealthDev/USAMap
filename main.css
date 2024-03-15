@@ -5,12 +5,12 @@
 }
 
 #us-map{
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+}
+
+.usmapsection {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
 #path67 {
