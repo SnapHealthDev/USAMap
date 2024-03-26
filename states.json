@@ -18,14 +18,16 @@
     "status": "active",
     "carriers": "8",
     "state": "Arizona",
-    "capital": "Phoenix"
+    "capital": "Phoenix",
+    "url": "https://shops.mysnaphealth.com/products/Arizona-oep-prep-quote"
   },
   "AR": {
     "abbr": "AR",
     "status": "active",
     "carriers": "4",
     "state": "Arkansas",
-    "capital": "Little Rock"
+    "capital": "Little Rock",
+    "url": "https://shops.mysnaphealth.com/products/arkansas-oep-prep-quote"
   },
   "CA": {
     "abbr": "CA",
@@ -38,7 +40,8 @@
     "status": "active",
     "carriers": "6",
     "state": "Colorado",
-    "capital": "Denver"
+    "capital": "Denver",
+    "url": "https://shops.mysnaphealth.com/products/colorado-oep-prep-quote"
   },
   "CT": {
     "abbr": "CT",
@@ -63,7 +66,8 @@
     "status": "active",
     "carriers": "10",
     "state": "Georgia",
-    "capital": "Atlanta"
+    "capital": "Atlanta",
+    "url": "https://shops.mysnaphealth.com/products/georgia-oep-prep-quote"
   },
   "HI": {
     "abbr": "HI",
@@ -76,7 +80,8 @@
     "status": "active",
     "carriers": "8",
     "state": "Idaho",
-    "capital": "Boise"
+    "capital": "Boise",
+    "url": "https://shops.mysnaphealth.com/products/idaho-oep-prep-quote"
   },
   "IL": {
     "abbr": "IL",
@@ -89,7 +94,8 @@
     "status": "active",
     "carriers": "5",
     "state": "Indiana",
-    "capital": "Indianapolis"
+    "capital": "Indianapolis",
+    "url": "https://shops.mysnaphealth.com/products/indiana-oep-prep-quote"
   },
   "IA": {
     "abbr": "IA",
@@ -104,14 +110,16 @@
     "status": "active",
     "carriers": "8",
     "state": "Kansas",
-    "capital": "Topeka"
+    "capital": "Topeka",
+    "url": "https://shops.mysnaphealth.com/products/kansas-oep-prep-quote"
   },
   "KY": {
     "abbr": "KY",
     "status": "active",
     "carriers": "4",
     "state": "Kentucky",
-    "capital": "Frankfort"
+    "capital": "Frankfort",
+    "url": "https://shops.mysnaphealth.com/products/kentucky-oep-prep-quote"
   },
   "LA": {
     "abbr": "LA",
@@ -124,14 +132,16 @@
     "status": "active",
     "carriers": "4",
     "state": "Maine",
-    "capital": "Augusta"
+    "capital": "Augusta",
+    "url": "https://shops.mysnaphealth.com/products/maine-oep-prep-quote"
   },
   "MD": {
     "abbr": "MD",
     "status": "active",
     "carriers": "3",
     "state": "Maryland",
-    "capital": "Annapolis"
+    "capital": "Annapolis",
+    "url": "https://shops.mysnaphealth.com/products/Maryland-oep-prep-quote"
   },
   "MA": {
     "abbr": "MA",
@@ -144,14 +154,16 @@
     "status": "active",
     "carriers": "9",
     "state": "Michigan",
-    "capital": "Lansing"
+    "capital": "Lansing",
+    "url": "https://shops.mysnaphealth.com/products/Michigan-oep-prep-quote"
   },
   "MN": {
     "abbr": "MN",
     "status": "active",
     "carriers": "5",
     "state": "Minnesota",
-    "capital": "Saint Paul"
+    "capital": "Saint Paul",
+    "url": "https://shops.mysnaphealth.com/products/Minnesota-oep-prep-quote"
   },
   "MS": {
     "abbr": "MS",
@@ -170,7 +182,8 @@
     "status": "active",
     "carriers": "3",
     "state": "Montana",
-    "capital": "Helena"
+    "capital": "Helena",
+    "url": "https://shops.mysnaphealth.com/products/Montana-oep-prep-quote"
   },
   "NE": {
     "abbr": "NE",
@@ -183,14 +196,16 @@
     "status": "active",
     "carriers": "7",
     "state": "Nevada",
-    "capital": "Carson City"
+    "capital": "Carson City",
+    "url": "https://shops.mysnaphealth.com/products/Nevada-oep-prep-quote"
   },
   "NH": {
     "abbr": "NH",
     "status": "active",
     "carriers": "3",
     "state": "New Hampshire",
-    "capital": "Concord"
+    "capital": "Concord",
+    "url": "https://shops.mysnaphealth.com/products/New-Hampshire-oep-prep-quote"
   },
   "NJ": {
     "abbr": "NJ",
@@ -261,7 +276,8 @@
     "status": "active",
     "carriers": "5",
     "state": "South Carolina",
-    "capital": "Columbia"
+    "capital": "Columbia",
+    "url": "https://shops.mysnaphealth.com/products/South-Carolina-oep-prep-quote"
   },
   "SD": {
     "abbr": "SD",
@@ -274,7 +290,8 @@
     "status": "active",
     "carriers": "6",
     "state": "Tennessee",
-    "capital": "Nashville"
+    "capital": "Nashville",
+    "url": "https://shops.mysnaphealth.com/products/Tennessee-oep-prep-quote"
   },
   "TX": {
     "abbr": "TX",
@@ -293,14 +310,16 @@
     "status": "active",
     "carriers": "2",
     "state": "Vermont",
-    "capital": "Montpelier"
+    "capital": "Montpelier",
+    "url": "https://shops.mysnaphealth.com/products/Vermont-oep-prep-quote"
   },
   "VA": {
     "abbr": "VA",
     "status": "active",
     "carriers": "10",
     "state": "Virginia",
-    "capital": "Richmond"
+    "capital": "Richmond",
+    "url": "https://shops.mysnaphealth.com/products/Virginia-oep-prep-quote"
   },
   "WA": {
     "abbr": "WA",
